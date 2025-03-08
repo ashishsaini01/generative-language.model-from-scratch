@@ -1,3 +1,6 @@
+![Python version](https://img.shields.io/badge/Python-3.10-blue) 
+![Repo Status](https://img.shields.io/badge/status-active-brightgreen)
+
 # Hands-On AI: Build a Generative Language Model from Scratch (LinkedIn course)
 
 This repository contains the example code files and practice exercises from the LinkedIn course (Building a generative model from scratch).
